@@ -1,0 +1,38 @@
+#link-top{
+	color: #ffffff;
+}
+#icon-acao{
+	font-size:16pt;
+	color: #000000;
+}
+#icon-acao-edit{
+	font-size:16pt;
+	margin-left:8%;
+	color: #000000;
+}
+#icon-acao-remove{
+	font-size:16pt;
+	margin-left:8%;
+	color: #000000;
+}
+#btn-detalhe{
+	text-align: center;
+}
+#login-bg{
+	background-color: #343a40;
+	color: #ffffff;
+}
+#btn-login{
+	text-align: right;
+}
+#log-sistema{
+	font-size: 40pt;
+text-align: center;
+}
+#nome-sistema{
+	font-size: 14pt;
+	text-align: center;
+}
+#user-logado{
+	color: #ffffff;
+}
